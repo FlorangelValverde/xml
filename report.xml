@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<detalle_venta>
+  <fecha>2020-11-14</fecha>
+  <nombre>Jungkook</nombre>
+  <direccion>Rio han</direccion>
+  <dni>73456788</dni>
+  <producto>Torta</producto>
+  <documento>Boleta</documento>
+  <numero>004</numero>
+  <cantidad>5</cantidad>
+  <stock>2</stock>
+  <subtotal>3</subtotal>
+</detalle_venta>
